@@ -1,0 +1,8 @@
+These are just simple items to help manipulating a MySQL database.
+
+The MySQLExporter is a class that inserts data in the database.
+
+The MySQL Importer is a class that extracts data from the database.
+
+Note that these class use the _mysql module for python which is part of the python-mysqldb package.
+Make sure you have this package installed before using this code, otherwise it won't work.
